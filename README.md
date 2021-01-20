@@ -1,0 +1,2 @@
+# terkey
+Termux Key Shortcut
